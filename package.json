@@ -1,6 +1,6 @@
 {
-  "name": "elm-webpack-loader",
-  "version": "4.5.0",
+  "name": "@CareerPlug/elm-webpack-loader",
+  "version": "4.5.1",
   "description": "Webpack loader for the Elm programming language.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elm-community/elm-webpack-loader.git"
+    "url": "https://github.com/CareerPlug/elm-webpack-loader.git"
   },
   "keywords": [
     "elm",
